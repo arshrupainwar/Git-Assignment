@@ -1,2 +1,2 @@
 Hello My Name is Arsh and this is File 3. 
-Now we need to Revert Changes
+I am from Bareilly.(conflict generated)
